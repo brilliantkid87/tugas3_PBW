@@ -1,0 +1,7 @@
+==== STRUK PESANAN ===
+Waktu Pesanan: 09-12-2024 12:51:55
+Nasi Padang - Rp 30000.0
+Es Degan - Rp 20000.0
+NATARU - Rp 15000.0
+------------------------
+Total biaya: Rp51500.0
